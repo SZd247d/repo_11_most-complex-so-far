@@ -1,0 +1,28 @@
+.login-container {
+  width: 370px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+p {
+  margin: 10px 0 !important;
+  word-break: break-all;
+}
+
+.fa-small {
+  font-size: 16px !important;
+}
+
+.hover:hover {
+  transition: transform 0.2s ease-in-out;
+  transform: translateY(-5%);
+}
+
+.btn-float {
+  float: left;
+  margin-right: 10px;
+}
+
+.img-small {
+  width: 180px;
+}
